@@ -1,6 +1,6 @@
 Package: tsvgraph
 Type: Package
-Title: What the Package Does (One Line, Title Case)
+Title: Package for importing tsv files to data frame.
 Version: 0.0.0.9000
 Author: person(
   "Jacob", "Widaeus",
